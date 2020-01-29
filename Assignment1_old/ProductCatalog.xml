@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<TVCatalog>
+    <tv id="Samsung">
+        <name>Samsung</name>
+        <price>399.99</price>
+        <image>Samsung.jpeg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tv>
+
+    <tv id="Sony">
+        <name>Sony</name>
+        <price>399.99</price>
+        <image>Sony.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tv>
+
+    <tv id="LG">
+        <name>LG</name>
+        <price>349.99</price>
+        <image>LG.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tv>
+
+    <tv id="Philips">
+        <name>Philips</name>
+        <price>349.99</price>
+        <image>philips.jpeg</image>
+        <manufacturer>Philips</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tv>
+
+    <tv id="Vizio">
+        <name>Vizio</name>
+        <price>349.99</price>
+        <image>vizio.jpeg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+    </tv>
+</TVCatalog>
+
+<LaptopsCatalog>
+    <laptop id="Apple">
+        <name>Apple Macbook</name>
+        <price>189.99</price>
+        <image>apple.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </laptop>
+    <laptop id="HP">
+        <name>HP</name>
+        <price>189.99</price>
+        <image>hp.png</image>
+        <manufacturer>HP</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </laptop>
+    <laptop id="Lenovo">
+        <name>Lenovo</name>
+        <price>299.99</price>
+        <image>lenovo.png</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="Acer">
+        <name>Acer</name>
+        <price>299.99</price>
+        <image>acer.png</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+    <laptop id="Razer">
+        <name>Razer</name>
+        <price>150.99</price>
+        <image>razer.jpg</image>
+        <manufacturer>Razer</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </laptop>
+</LaptopsCatalog>
+
+<HeadphonesCatalog>
+    <headphone id="JBL">
+        <name>JBL</name>
+        <price>189.99</price>
+        <image>jbl.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </headphone>
+    <headphone id="Beats">
+        <name>Beats</name>
+        <price>189.99</price>
+        <image>beats.jpg</image>
+        <manufacturer>Beats</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </headphone>
+    <headphone id="Bose">
+        <name>Bose</name>
+        <price>299.99</price>
+        <image>bose.jpeg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Apple1">
+        <name>Apple</name>
+        <price>299.99</price>
+        <image>apple.jpeg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+    <headphone id="Sony1">
+        <name>Sony</name>
+        <price>150.99</price>
+        <image>sony.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </headphone>
+</HeadphonesCatalog>
+
+<VoiceAssistantCatalog>
+    <va id="Alexa">
+        <name>Alexa</name>
+        <price>189.99</price>
+        <image>alexa.jpg</image>
+        <manufacturer>Alexa</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </va>
+    <va id="Cortana">
+        <name>Cortana</name>
+        <price>189.99</price>
+        <image>cortana.jpg</image>
+        <manufacturer>Cortana</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </va>
+    <va id="Siri">
+        <name>Siri</name>
+        <price>299.99</price>
+        <image>siri.png</image>
+        <manufacturer>Siri</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </va>
+    <va id="Google Assistant">
+        <name>Google Assistant</name>
+        <price>299.99</price>
+        <image>googleassistant.png</image>
+        <manufacturer>Google Assistant</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </va>
+    <va id="Apple Home Pod">
+        <name>Apple Home Pod</name>
+        <price>150.99</price>
+        <image>applehomepod.jpg</image>
+        <manufacturer>Apple Home Pod</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </va>
+</VoiceAssistantCatalog>
+
+<SoundSystemCatalog>
+    <ss id="Vizio1">
+        <name>Vizio</name>
+        <price>189.99</price>
+        <image>vizio.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </ss>
+    <ss id="Sony2">
+        <name>Sony</name>
+        <price>189.99</price>
+        <image>sony.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </ss>
+    <ss id="LG1">
+        <name>LG</name>
+        <price>299.99</price>
+        <image>lg.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </ss>
+    <ss id="Bose1">
+        <name>Bose</name>
+        <price>299.99</price>
+        <image>bose.jpg</image>
+        <manufacturer>Bose</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </ss>
+    <ss id="Apple2">
+        <name>Apple</name>
+        <price>150.99</price>
+        <image>apple.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </ss>
+</SoundSystemCatalog>
+
+<FitnessWatchCatalog>
+    <fw id="Apple3">
+        <name>Apple Watch</name>
+        <price>189.99</price>
+        <image>apple.png</image>
+        <manufacturer>Apple Watch</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </fw>
+    <fw id="Garmin">
+        <name>Garmin</name>
+        <price>189.99</price>
+        <image>garmin.jpg</image>
+        <manufacturer>Garmin</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </fw>
+    <fw id="Samsung1">
+        <name>Samsung</name>
+        <price>299.99</price>
+        <image>samsung.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fw>
+    <fw id="Fitbit">
+        <name>Fitbit</name>
+        <price>299.99</price>
+        <image>fitbit.png</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fw>
+    <fw id="MI">
+        <name>MI</name>
+        <price>150.99</price>
+        <image>mi.jpg</image>
+        <manufacturer>MI</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </fw>
+</FitnessWatchCatalog>
+
+<SmartWatchCatalog>
+    <sw id="Michael Kors">
+        <name>Michael Kors</name>
+        <price>189.99</price>
+        <image>michaelkors.jpg</image>
+        <manufacturer>Michael Kors</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </sw>
+    <sw id="Apple4">
+        <name>Apple</name>
+        <price>189.99</price>
+        <image>apple.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </sw>
+    <sw id="Fossil">
+        <name>Fossil</name>
+        <price>299.99</price>
+        <image>fossil.jpg</image>
+        <manufacturer>Fossil</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sw>
+    <sw id="Movado">
+        <name>Movado</name>
+        <price>299.99</price>
+        <image>movado.jpg</image>
+        <manufacturer>Movado</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sw>
+    <sw id="Skagen">
+        <name>Skagen</name>
+        <price>150.99</price>
+        <image>skagen.jpeg</image>
+        <manufacturer>Skagen</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sw>
+</SmartWatchCatalog>
+
+
+<TabletCatalog>
+    <tablet id="Microsoft Surface">
+        <name>Microsoft Surface</name>
+        <price>189.99</price>
+        <image>microsoftsurface.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="ipad">
+        <name>Apple Ipad</name>
+        <price>189.99</price>
+        <image>apple.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Lenovo1">
+        <name>Lenovo</name>
+        <price>299.99</price>
+        <image>lenovo.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung Galaxy">
+        <name>Samsung Galaxy</name>
+        <price>299.99</price>
+        <image>samsung.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Amazon Kindle">
+        <name>Amazon Kindle</name>
+        <price>150.99</price>
+        <image>amazonKindle.jpg</image>
+        <manufacturer>Amazon Kindle</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+</TabletCatalog>
+
+<WirelessPlanCatalog>
+    <wp id="Basic">
+        <name>Basic</name>
+        <price>19.99</price>
+        <image>mint.jpg</image>
+        <manufacturer>Basic</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </wp>
+    <wp id="Premium">
+        <name>Premium</name>
+        <price>29.99</price>
+        <image>tmobile.jpg</image>
+        <manufacturer>Premium</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </wp>
+    <wp id="Ultimate">
+        <name>Ultimate</name>
+        <price>49.99</price>
+        <image>att.jp2</image>
+        <manufacturer>Ultimate</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </wp>
+</WirelessPlanCatalog>
+
+</ProductCatalog>
